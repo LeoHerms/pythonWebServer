@@ -1,2 +1,4 @@
 # pythonWebServer
-Simple Python Web Server. Before using Flask want to experiment with this approach
+Simple Python Web Server refresher.
+
+Use for future reference
